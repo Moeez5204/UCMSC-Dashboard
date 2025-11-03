@@ -31,26 +31,26 @@ This project is based on clinical research from:
 ## 📸 Dashboard Visualizations
 
 ### 🏠 Main Dashboard & Metrics
-![Main Dashboard](screenshots/Screenshot%202025-11-03%20at%208.35.46 PM.png)
+<img width="929" height="1064" alt="Screenshot 2025-11-03 at 8 35 46 PM" src="https://github.com/user-attachments/assets/3f9a235e-9508-4b8c-b6f5-cf4684b2e6f8" />
 *Interactive dashboard showing key performance metrics and treatment comparisons*
 
 ### 📈 Clinical Analysis
-![HbA1c Distribution](screenshots/Screenshot%202025-11-03%20at%208.35.58 PM.png)
+<img width="929" height="444" alt="Screenshot 2025-11-03 at 8 35 58 PM" src="https://github.com/user-attachments/assets/b6d79cfd-34ea-4a77-bbcd-b1ed47c4e18b" />
 *HbA1c distribution by treatment group with clinical targets*
 
 ### 🤖 Machine Learning Insights
-![Feature Importance](screenshots/Screenshot%202025-11-03%20at%208.36.13 PM.png)
+<img width="929" height="693" alt="Screenshot 2025-11-03 at 8 36 13 PM" src="https://github.com/user-attachments/assets/813268c5-4985-45d0-bc2d-21a4e0f67e27" />
 *Machine learning feature importance showing key predictors of treatment response*
 
 ### 📊 Advanced Statistics
-![Power Analysis](screenshots/Screenshot%202025-11-03%20at%208.36.35 PM.png)
+ <img width="929" height="650" alt="Screenshot 2025-11-03 at 8 36 32 PM" src="https://github.com/user-attachments/assets/b80b0176-9b19-4c90-9fe4-d7baa367a1eb" />
 *Statistical power analysis with sample size calculations*
 
 ### 🌐 3D Visualizations
-![3D Network](screenshots/Screenshot%202025-11-03%20at%208.37.54 PM.png)
+<img width="929" height="964" alt="Screenshot 2025-11-03 at 8 37 54 PM" src="https://github.com/user-attachments/assets/0fb4340d-e8a5-441c-8c78-f3d51035a6fc" />
 *3D network graph showing biomarker relationships and treatment effects*
 
-![3D Scatter Plot](screenshots/Screenshot%202025-11-03%20at%208.38.04 PM.png)
+<img width="929" height="939" alt="Screenshot 2025-11-03 at 8 38 04 PM" src="https://github.com/user-attachments/assets/7a10e223-5dfa-4fd9-9391-cfd2d88ae37a" />
 *Interactive 3D scatter plot of HbA1c vs BMI vs Age by treatment group*
 
 ## 🛠️ Technical Architecture
