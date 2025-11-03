@@ -229,7 +229,7 @@ def create_effect_size_chart(df):
 
 
 # 3D Visualization Functions
-def create_3d_network_graph():
+def create_3d_network_graph(df):
     """Create interactive 3D network graph showing relationships"""
     import networkx as nx
 
