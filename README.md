@@ -1,4 +1,3 @@
-# Create the updated README
 # 🎯 UC-MSC Therapy for Type 2 Diabetes - Interactive Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
